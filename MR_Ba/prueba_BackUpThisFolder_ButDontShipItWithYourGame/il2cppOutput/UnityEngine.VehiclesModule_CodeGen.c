@@ -1,0 +1,43 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void EmbeddedAttribute__ctor_mDBE6287251893685DD223C2CB30EE3D9FEF81FC6 (void);
+extern void RefSafetyRulesAttribute__ctor_m8ACE9CA62B01738689D4A54B77C57053B803D7D3 (void);
+extern void WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8 (void);
+extern void WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3 (void);
+extern void WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890 (void);
+extern void WheelCollider_set_motorTorque_Injected_mDC3AFD111B0711D6D7450F3FDCC18386352888C2 (void);
+extern void WheelCollider_set_steerAngle_Injected_m1D19C28872BFFC9C692FA4F50454A3400D5ACC20 (void);
+extern void WheelCollider_GetWorldPose_Injected_m5CADCBBA43204BA3C8EF66B85A568D7A685B28AE (void);
+static Il2CppMethodPointer s_methodPointers[8] = 
+{
+	EmbeddedAttribute__ctor_mDBE6287251893685DD223C2CB30EE3D9FEF81FC6,
+	RefSafetyRulesAttribute__ctor_m8ACE9CA62B01738689D4A54B77C57053B803D7D3,
+	WheelCollider_set_motorTorque_m4958AAF7D867CF7570420F9BAFAF04DC904F02A8,
+	WheelCollider_set_steerAngle_m7BF83B27D8956355F873537939BE9F35CF3113C3,
+	WheelCollider_GetWorldPose_m8C41FA2AE9ED543AB94A6E3226523A2FE83FA890,
+	WheelCollider_set_motorTorque_Injected_mDC3AFD111B0711D6D7450F3FDCC18386352888C2,
+	WheelCollider_set_steerAngle_Injected_m1D19C28872BFFC9C692FA4F50454A3400D5ACC20,
+	WheelCollider_GetWorldPose_Injected_m5CADCBBA43204BA3C8EF66B85A568D7A685B28AE,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_VehiclesModule_CodeGenModule;
+const Il2CppCodeGenModule g_UnityEngine_VehiclesModule_CodeGenModule = 
+{
+	"UnityEngine.VehiclesModule.dll",
+	8,
+	s_methodPointers,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
